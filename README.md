@@ -10,6 +10,9 @@ Given images of damaged cars, both AI generated and real accidents, build a clas
 - matplotlib
 - seaborn
 
+## Data
+https://drive.google.com/drive/folders/1rHyDNhfFQ7qlXDaS0L4GDRxVWhrPnQOd?usp=sharing
+
 ## Data Preprocessing
 - ImageDataGenerator is used for data augmentation and preprocessing.
 - Images are resized to 224x224 pixels.
@@ -27,6 +30,9 @@ Given images of damaged cars, both AI generated and real accidents, build a clas
 - Binary crossentropy loss is used as the loss function.
 - Metrics tracked during training include accuracy, precision, and recall.
 - ModelCheckpoint and EarlyStopping callbacks are used for saving the best weights and early stopping.
+
+# Models
+https://drive.google.com/drive/folders/1ocw8LGwHs-o2KSQNF02pdSsF-3s-kXuU?usp=sharing
 
 ## Evaluation
 - Model performance is evaluated on a separate test set.
