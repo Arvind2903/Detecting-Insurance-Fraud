@@ -40,7 +40,7 @@ The fitted models can be found here: https://drive.google.com/drive/folders/1Lpo
 - Classification report and confusion matrix are generated to evaluate model performance.
 
 ## Results
-- The model achieves an accuracy of XX%, precision of XX%, and recall of XX% on the test set.
+- The model achieves an accuracy of 93.4%, precision of 93.4%, and recall of 100% on the test set.
 
 ## Conclusion
 The VGG16-based image classification model demonstrates effective performance in distinguishing between Fraud and Non-Fraud classes.
